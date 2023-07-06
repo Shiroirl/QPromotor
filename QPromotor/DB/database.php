@@ -2,7 +2,7 @@
 
 define('host','localhost');
 define('user','root');
-define('pass','Margary14.');
+define('pass','');
 define('db','qpromotor');
 
 ?>

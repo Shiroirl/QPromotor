@@ -4,12 +4,24 @@ Desarrollo del proyecto QPromotor solicitado.
 
 ### Login
 ![video](Ev/Login.PNG)
-#Mostrar Usuarios y Perfiles.
 
-#CRUD.
+###Mostrar Usuarios y Perfiles.
+![video](Ev/TablasUyP.PNG)
 
-#Añadir o registrar usuario/perfil.
+###CRUD.
+![video](Ev/CRUD.PNG)
 
-#Modificar Usuario o Perfil.
+###Añadir o registrar usuario/perfil.
+![video](Ev/Registro.PNG)
 
-#Eliminar Usuario o Perfil.
+###Modificar Usuario.
+![video](Ev/ModUL.PNG)
+![video](Ev/Modificar.PNG)
+
+###Modificar Perfil.
+![video](Ev/ModPL.PNG)
+![video](Ev/ModPerfil,PNG)
+
+###Eliminar Usuario y Perfil.
+![video](Ev/EliminarUserL.PNG)
+![video](Ev/EliminarPerf.PNG)
